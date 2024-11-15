@@ -1,4 +1,6 @@
-# Myapp
+# Content editable token recogizer
+
+A simple demo banged out to recognize the typed token `[date]` as distinct from other text and highlight it accordingly.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
