@@ -1,6 +1,8 @@
 # Content editable token recogizer
 
-A simple demo banged out to recognize the typed token `[date]` as distinct from other text and highlight it accordingly.
+A simple demo banged out to recognize the typed token `[date]` as distinct from other text and highlight it accordingly. 
+
+[Try it out with Google IDX](https://idx.google.com/import?url=https://github.com/amoose136/content-editable/) or [with stackblitz](https://stackblitz.com/~/github.com/amoose136/content-editable) or download and try it with automatically generated the instructions below.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
