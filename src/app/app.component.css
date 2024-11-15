@@ -1,0 +1,13 @@
+.editable-text {
+    border: solid black 1px;
+    border-radius: 4px;
+}
+
+.custom-token {
+    color: blue;
+    background-color: rgb(200,200,200);
+}
+
+.upper {
+    padding-bottom: 5px;
+}
